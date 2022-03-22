@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-spaceship",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "node_modules/expo/AppEntry.js",
   "keywords": [
     "react-native",
