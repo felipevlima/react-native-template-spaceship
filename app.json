@@ -1,7 +1,5 @@
 {
   "expo": {
-    "name": "react-native-template-spaceship",
-    "slug": "react-native-template-spaceship",
     "version": "0.0.1",
     "orientation": "portrait"
   }
