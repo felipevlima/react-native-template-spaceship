@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/logo.svg" width=150 />
+  <img src="./src/assets/logo.svg" width=150 />
 </p>
 
 <h1 align="center">React Native Template Spaceship</h1>
