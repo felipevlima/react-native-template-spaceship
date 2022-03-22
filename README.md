@@ -2,12 +2,10 @@
   <img src="./.github/logo.svg" width=150 />
 </p>
 
-</br>
-
 <h1 align="center">React Native Template Spaceship</h1>
 
 <p align="center">
-  Template to help streamline your development with React Native (Expo) projects.
+  Spaceship is a React Native template with the aim of speeding up your development and increasing your productivity. This template may receive new updates in the future.
 <p>
 
 <br/>
