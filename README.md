@@ -41,4 +41,7 @@ npm install --global expo-cli
 expo init <your-app> --template react-native-template-spaceship
 ```
 
+3. Now edit or remove unnecessary settings from ```package.json```.
+
 ## 📱 Now just go to code!
+**Note:** The template is following the standard pattern.
